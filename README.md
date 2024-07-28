@@ -1,5 +1,5 @@
 # Hello, my name is Dhruv Baljekar.
-**I am a person who loves to code and explore my passion by creating projects.**
+**I am a person who loves to code and explore my passion for learning new languages by creating projects.**
 
 I also like reading and art.
 
