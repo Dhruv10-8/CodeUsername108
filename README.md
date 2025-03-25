@@ -48,6 +48,6 @@ Contact me at dhruv.baljekar108@gmail.com
 An app developed using MERN stack which helps keep track of your daily expenses and income, helping you to manage your finances with simplicity.
 
 ### EcoDispose
-A website that lets you upload images of waste and classify them on the basis of organic or recyclable using machine learning, and then provides methods to dispose of waste using OpenAI's GPT-4o.
+A website developed using Flask and HTML-CSS-JS that lets you upload images of waste and classify them on the basis of organic or recyclable using machine learning, and then provides methods to dispose of waste using OpenAI's GPT-4o.
 
 
