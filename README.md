@@ -21,7 +21,7 @@ Contact me at dhruv.baljekar108@gmail.com
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" height="80" width="80"/>
 <img src = "https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="80" width="80"/>
 <img src = "https://www.svgrepo.com/show/353498/bootstrap.svg" height="80" width="80"/>
-<img src = "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="80" width="80"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmIqhyrm4hVYGS5NDiIHbhCyKHFsndBwZW1PQqzkiRZ1uPx7TNDhWv-rBBqbAz5c9tMMw&usqp=CAU" height="80" width="80"/>
 <img src = "https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" height="80" width="80"/>
 <img src = "https://www.svgrepo.com/show/354440/tensorflow.svg" height="80" width="80"/>
 </p>
@@ -39,7 +39,7 @@ Contact me at dhruv.baljekar108@gmail.com
 <img src = "https://www.svgrepo.com/show/354522/visual-studio-code.svg" height="80" width="80">
 <img src = "https://www.svgrepo.com/show/452202/figma.svg" height="80" width="80">
 <img src = "https://logowik.com/content/uploads/images/canva8051.logowik.com.webp" height="80" width="80">
-
+<img src = "https://store-images.s-microsoft.com/image/apps.29355.49e39246-7603-4df4-af38-57fd1df6d0e9.3b2e051e-d49e-42c8-8d4a-0f7090b4308c.6f1b683b-b69f-4f22-a102-08f098b0c36e.png" height = "80" width = "80">
 </p>
 
 ## **My Top Projects**
