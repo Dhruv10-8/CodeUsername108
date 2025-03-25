@@ -21,12 +21,16 @@ Contact me at dhruv.baljekar108@gmail.com
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" height="80" width="80"/>
 <img src = "https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="80" width="80"/>
 <img src = "https://www.svgrepo.com/show/353498/bootstrap.svg" height="80" width="80"/>
+<img src = "https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="80" width="80"/>
+<img src = "https://www.svgrepo.com/show/508915/flask.svg" height="80" width="80"/>
+<img src = "https://www.svgrepo.com/show/354440/tensorflow.svg" height="80" width="80"/>
 </p>
 
 ## **Hosting and Databases**
 <p display = "flex">
 <img src = "https://www.svgrepo.com/show/373845/mongo.svg" height="80" width="80">
 <img src = "https://www.svgrepo.com/show/355133/mysql.svg" height="80" width="80">
+<img src = "https://www.svgrepo.com/show/354200/postgresql.svg" height="80" width="80">
 </p>
 
 ## **Tools and Other Software**
@@ -35,10 +39,13 @@ Contact me at dhruv.baljekar108@gmail.com
 <img src = "https://www.svgrepo.com/show/341669/canva.svg" height="80" width="80">
 <img src = "https://www.svgrepo.com/show/354522/visual-studio-code.svg" height="80" width="80">
 <img src = "https://www.svgrepo.com/show/452202/figma.svg" height="80" width="80">
-<img src = "https://www.svgrepo.com/show/354202/postman-icon.svg" height="80" width="80">
+<img src = "https://logowik.com/content/uploads/images/canva8051.logowik.com.webp" height="80" width="80">
+
 </p>
 
 ## **My Top Projects**
 
 ### Expense Tracker
 An app developed using MERN stack which helps keep track of your daily expenses and income, helping you to manage your finances with simplicity.
+
+
