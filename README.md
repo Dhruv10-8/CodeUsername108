@@ -13,6 +13,7 @@ Contact me at dhruv.baljekar108@gmail.com
 <img src = "https://www.svgrepo.com/show/373482/c.svg" height="80" width="80"/>
 <img src = "https://www.svgrepo.com/show/452228/html-5.svg" height="80" width="80"/>
 <img src = "https://www.svgrepo.com/show/452185/css-3.svg" height="80" width="80"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" height="80" width="80"/>
 </p>
 
 ## **Frameworks and Libraries**
@@ -44,10 +45,13 @@ Contact me at dhruv.baljekar108@gmail.com
 
 ## **My Top Projects**
 
-### Expense Tracker
-An app developed using MERN stack which helps keep track of your daily expenses and income, helping you to manage your finances with simplicity.
+### LoanRisk
+A website that accesses bank records and uses ML to classify whether they are eligible for loans or not. The main feature is SHAP, which explains why a user was/was not eligible for loans.
+
+### FixMyCity
+A website developed using the MERN stack and Flask, which allows users to add complaints to the website, visible on a map. The danger level of these complaints is classified using a clustering approach.
 
 ### EcoDispose
-A website developed using Flask and HTML-CSS-JS that lets you upload images of waste and classify them on the basis of organic or recyclable using machine learning, and then provides methods to dispose of waste using OpenAI's GPT-4o.
+A website developed using Flask and HTML-CSS-JS that lets you upload images of waste and classify them based on organic or recyclable using machine learning, and then provides methods to dispose of waste using OpenAI's GPT-4o.
 
 
