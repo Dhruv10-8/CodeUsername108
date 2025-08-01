@@ -45,10 +45,13 @@ Contact me at dhruv.baljekar108@gmail.com
 ## **My Top Projects**
 
 ### LoanRisk
-A website that accesses bank records and uses ML to classify whether they are eligible for loans or not. The main feature is SHAP, which explains why a user was/was not eligible for loans.
+An application that accesses bank records and uses ML to classify whether they are eligible for loans or not. The main feature is SHAP, which explains why a user was/was not eligible for loans.
 
 ### FixMyCity
-A website developed using the MERN stack and Flask, which allows users to add complaints to the website, visible on a map. The danger level of these complaints is classified using a clustering approach.
+An application developed using the MERN stack and Flask, which allows users to add complaints to the website, visible on a map. The danger level of these complaints is classified using a clustering approach.
+
+### E-Chunav
+An application that allows users to place their votes online instead of having to go to voting centres in person. Combined with various verification methods, users can vote without fear of any complications.
 
 ### EcoDispose
 A website developed using Flask and HTML-CSS-JS that lets you upload images of waste and classify them based on organic or recyclable using machine learning, and then provides methods to dispose of waste using OpenAI's GPT-4o.
