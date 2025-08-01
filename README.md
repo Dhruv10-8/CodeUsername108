@@ -24,7 +24,6 @@ Contact me at dhruv.baljekar108@gmail.com
 <img src = "https://www.svgrepo.com/show/353498/bootstrap.svg" height="80" width="80"/>
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmIqhyrm4hVYGS5NDiIHbhCyKHFsndBwZW1PQqzkiRZ1uPx7TNDhWv-rBBqbAz5c9tMMw&usqp=CAU" height="80" width="80"/>
 <img src = "https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" height="80" width="80"/>
-<img src = "https://www.svgrepo.com/show/354440/tensorflow.svg" height="80" width="80"/>
 </p>
 
 ## **Hosting and Databases**
